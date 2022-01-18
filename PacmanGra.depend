@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1642517208 source:c:\users\katar\desktop\bartekcplusplus\pacmangra\pacman.cpp
+	"Pacman.hpp"
+	<iostream>
+
+1642517352 source:c:\users\katar\desktop\bartekcplusplus\pacmangra\runda.cpp
+	"Runda.hpp"
+	<iostream>
+
+1642515529 c:\users\katar\desktop\bartekcplusplus\pacmangra\runda.hpp
+	"Pacman.hpp"
+
+1642517401 source:c:\users\katar\desktop\bartekcplusplus\pacmangra\main.cpp
+	<iostream>
+	"Runda.hpp"
+	"Pacman.hpp"
+	<conio.h>
+
+1642515529 c:\users\katar\desktop\bartekcplusplus\pacmangra\pacman.hpp
+
